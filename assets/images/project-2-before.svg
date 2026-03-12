@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Before front gate condition</title>
+  <desc id="desc">A bent front gate with uneven fence sections and poor curb appeal.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dbd9d6" />
+      <stop offset="100%" stop-color="#ede7df" />
+    </linearGradient>
+    <linearGradient id="street" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#949ea3" />
+      <stop offset="100%" stop-color="#6d7479" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)" />
+  <rect y="620" width="1200" height="280" fill="url(#street)" />
+  <rect x="80" y="300" width="1040" height="350" fill="#8f8f89" stroke="#585754" stroke-width="6" />
+  <g fill="#a19f98" stroke="#67655f" stroke-width="3">
+    <rect x="105" y="335" width="50" height="300" />
+    <rect x="175" y="350" width="50" height="290" />
+    <rect x="245" y="335" width="50" height="305" />
+    <rect x="315" y="345" width="50" height="295" />
+    <rect x="385" y="355" width="50" height="285" />
+    <rect x="455" y="330" width="50" height="310" />
+  </g>
+
+  <g transform="translate(560 320) rotate(6)">
+    <rect width="280" height="325" rx="8" fill="#8a8a84" stroke="#5a5955" stroke-width="8" />
+    <line x1="0" y1="0" x2="280" y2="325" stroke="#5a5955" stroke-width="8" />
+    <line x1="280" y1="0" x2="0" y2="325" stroke="#5a5955" stroke-width="8" />
+  </g>
+
+  <g fill="#a7a58f" stroke="#67655f" stroke-width="3">
+    <rect x="860" y="335" width="50" height="300" />
+    <rect x="930" y="355" width="50" height="285" />
+    <rect x="1000" y="340" width="50" height="300" />
+  </g>
+
+  <g fill="#7f8d70">
+    <circle cx="90" cy="670" r="66" />
+    <circle cx="1120" cy="673" r="69" />
+  </g>
+  <rect x="0" y="0" width="1200" height="900" fill="#1f2528" opacity="0.11" />
+  <text x="78" y="118" font-size="86" font-family="Arial, sans-serif" font-weight="700" fill="#2d3538" opacity="0.8">BEFORE</text>
+</svg>

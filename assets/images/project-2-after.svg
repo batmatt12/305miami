@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">After front gate transformation</title>
+  <desc id="desc">A modern secure front entry with clean lines and upgraded fence materials.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#cdf4ef" />
+      <stop offset="100%" stop-color="#f4f3ea" />
+    </linearGradient>
+    <linearGradient id="street" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#98a5aa" />
+      <stop offset="100%" stop-color="#6c7881" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)" />
+  <rect y="620" width="1200" height="280" fill="url(#street)" />
+
+  <rect x="75" y="305" width="1050" height="345" rx="10" fill="#f7f8f8" stroke="#1a272c" stroke-width="5" />
+
+  <g>
+    <rect x="115" y="335" width="380" height="280" fill="#1a272c" />
+    <g fill="#b98860">
+      <rect x="125" y="350" width="360" height="20" />
+      <rect x="125" y="386" width="360" height="20" />
+      <rect x="125" y="422" width="360" height="20" />
+      <rect x="125" y="458" width="360" height="20" />
+      <rect x="125" y="494" width="360" height="20" />
+      <rect x="125" y="530" width="360" height="20" />
+      <rect x="125" y="566" width="360" height="20" />
+    </g>
+  </g>
+
+  <g>
+    <rect x="505" y="335" width="190" height="280" fill="#121b1f" />
+    <rect x="530" y="360" width="140" height="230" fill="#1e2b31" />
+    <circle cx="553" cy="475" r="7" fill="#e9b63e" />
+    <rect x="598" y="398" width="10" height="145" fill="#7c8e98" />
+  </g>
+
+  <g>
+    <rect x="715" y="335" width="380" height="280" fill="#1a272c" />
+    <g fill="#b98860">
+      <rect x="725" y="350" width="360" height="20" />
+      <rect x="725" y="386" width="360" height="20" />
+      <rect x="725" y="422" width="360" height="20" />
+      <rect x="725" y="458" width="360" height="20" />
+      <rect x="725" y="494" width="360" height="20" />
+      <rect x="725" y="530" width="360" height="20" />
+      <rect x="725" y="566" width="360" height="20" />
+    </g>
+  </g>
+
+  <rect x="88" y="305" width="15" height="345" fill="#1a272c" />
+  <rect x="1098" y="305" width="15" height="345" fill="#1a272c" />
+
+  <g fill="#4d8f60">
+    <circle cx="94" cy="669" r="58" />
+    <circle cx="1110" cy="667" r="60" />
+  </g>
+
+  <rect x="0" y="0" width="1200" height="900" fill="#0f6d68" opacity="0.04" />
+  <text x="80" y="118" font-size="86" font-family="Arial, sans-serif" font-weight="700" fill="#0f6d68" opacity="0.92">AFTER</text>
+</svg>
