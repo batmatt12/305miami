@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">After fence transformation</title>
+  <desc id="desc">A modern horizontal fence with matching gate and refreshed landscaping.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#cdeef0" />
+      <stop offset="100%" stop-color="#f9f3e7" />
+    </linearGradient>
+    <linearGradient id="ground" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#a9c19a" />
+      <stop offset="100%" stop-color="#7f9e70" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)" />
+  <rect y="620" width="1200" height="280" fill="url(#ground)" />
+  <g>
+    <rect x="120" y="320" width="960" height="320" rx="10" fill="#f2eee7" stroke="#3a3f42" stroke-width="5" />
+    <rect x="160" y="350" width="740" height="260" rx="6" fill="#f7f6f2" />
+    <g fill="#6e4f36">
+      <rect x="160" y="350" width="740" height="24" />
+      <rect x="160" y="390" width="740" height="24" />
+      <rect x="160" y="430" width="740" height="24" />
+      <rect x="160" y="470" width="740" height="24" />
+      <rect x="160" y="510" width="740" height="24" />
+      <rect x="160" y="550" width="740" height="24" />
+      <rect x="160" y="590" width="740" height="20" />
+    </g>
+
+    <rect x="920" y="350" width="120" height="260" fill="#111a1d" />
+    <rect x="940" y="380" width="80" height="200" fill="#182629" />
+    <circle cx="957" cy="480" r="7" fill="#e5ad37" />
+  </g>
+  <g>
+    <rect x="110" y="305" width="20" height="340" fill="#2f3639" />
+    <rect x="1070" y="305" width="20" height="340" fill="#2f3639" />
+  </g>
+  <g fill="#4f8e58">
+    <circle cx="135" cy="644" r="58" />
+    <circle cx="1048" cy="644" r="55" />
+  </g>
+  <rect x="0" y="0" width="1200" height="900" fill="#0f6d68" opacity="0.04" />
+  <text x="80" y="118" font-size="86" font-family="Arial, sans-serif" font-weight="700" fill="#0f6d68" opacity="0.92">AFTER</text>
+</svg>
